@@ -52,6 +52,7 @@ Send2Trash==1.5.0
 six==1.15.0
 sniffio==1.2.0
 testpath==0.4.4
+tkinter
 tornado==6.1
 traitlets==5.0.5
 voila==0.2.6
